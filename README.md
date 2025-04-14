@@ -95,13 +95,13 @@ mkdir -p data
 #### Backend (API)
 Create a `.env` file in the `api` directory:
 ```env
-PORT=3000
+PORT=4200
 ```
 
 #### Frontend (Client)
 Create a `.env.local` file in the `client` directory:
 ```env
-NEXT_PUBLIC_API_URL=http://localhost:3000
+NEXT_PUBLIC_API_URL=http://localhost:4200
 ```
 
 ## Running the Application
@@ -113,7 +113,7 @@ cd api
 npm run start:dev
 ```
 
-The API will be available at `http://localhost:3000`
+The API will be available at `http://localhost:4200`
 
 ### 2. Start the Frontend (Client)
 
@@ -122,7 +122,7 @@ cd client
 npm run dev
 ```
 
-The client will be available at `http://localhost:3001`
+The client will be available at `http://localhost:3000`
 
 ## API Endpoints
 
