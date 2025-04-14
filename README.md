@@ -1,3 +1,4 @@
+## Short video Walkthrough link - https://youtu.be/K6_UbtDhhk8
 # Library Management System
 
 A full-stack application for managing a library's books, members, and borrowings. Built with NestJS for the backend and Next.js for the frontend.
