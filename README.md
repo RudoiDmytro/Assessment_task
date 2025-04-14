@@ -64,7 +64,7 @@ A full-stack application for managing a library's books, members, and borrowings
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/RudoiDmytro/Assessment_task
 cd library-management-system
 ```
 
